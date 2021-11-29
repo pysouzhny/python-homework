@@ -50,13 +50,14 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
-> Which model has a lower loss?
->*the model with window of closing prices has a lower loss*
-> Which model tracks the actual values better over time?
->*the model with window of closing tracks it better*
+Which model has a lower loss?
+*the model with window of closing prices has a lower loss*
+
+Which model tracks the actual values better over time?
+*the model with window of closing tracks it better*
 
 > Which window size works best for the model?
-
+*5 day windows is optimal in this case*
 - - -
 
 ### Resources
