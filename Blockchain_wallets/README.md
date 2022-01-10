@@ -113,9 +113,9 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Submission
 
 * Upload the files for this assignment to your GitHub repository.
-![transaction_history](Transaction history.png)
-![transaction_detail_1](transaction 1.png)
-![transaction_detail_2](transaction 2.png)
+![transaction_history](Transaction_history.png)
+![transaction_detail_1](transaction_1.png)
+![transaction_detail_2](transaction_2.png)
 * Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
