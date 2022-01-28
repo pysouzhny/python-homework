@@ -1,35 +1,36 @@
 ### 1- Set Accounts
-
-![set Accounts](images/0_set_accounts.pNG)
+*set accounts*
+![set Accounts](images/0.png)
 
 ### 2 - Deposit 1 eth
 
-![deposit 1 eth](images/1_deposit_1_eth.pNG)
+![deposit 1 eth](images/1.png)
 
 ### 3 - Deposit 10 eth
 
-![deposit 1 eth](images/2_deposit_10_eth.pNG)
+![deposit 1 eth](images/2.png)
 
 ### 4 - Deposit 5 eth
 
-![deposit 1 eth](images/3_lastdeposit.pNG)
+![deposit 1 eth](images/3.png)
 
 ### 5 - first withdrawal
 
-![first withdrawal](images/4_contractbal_after_1st_withdrawal.pNG)
+![first withdrawal](images/4.png)
 
-![last withdrawal address](images/5_first_address_towithdraw.pNG)
+![last withdrawal address](images/5.png)
 
-![last withdrawal amount](images/6_withdrawn_amount.pNG)
+![last withdrawal amount](images/6.png)
 
 
-### 6 - Last withdrawal
+### 6 - Last withdrawal -
 
-![Last contract withdrawal](images/7_contract_withdrawal.pNG)
+![Last contract withdrawal](images/7.png)
 
-![last withdrawal address](images/8_last_to_withdraw.pNG)
+![last withdrawal address](images/8.png)
 
-![last withdrawal amount](images/9_last_amount_withdrawn.pNG)
+![last withdrawal amount](images/9.png)
+
 
 
 
